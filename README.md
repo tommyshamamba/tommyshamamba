@@ -11,10 +11,10 @@ CI/CD, and observability (dashboards, tracing, alerting, SLOs). I mostly write G
 
 | Repository | What it is |
 | --- | --- |
-| [SONOFGOD.](https://github.com/tommyshamamba/SONOFGOD.) | Portfolio collection: an image-processing API and storefront, Postgres workflow apps, Terraform modules, Kubernetes examples, and a research on-chain event-processing engine. CI-tested, with verification notes |
-| [stickermule-clone](https://github.com/tommyshamamba/stickermule-clone) | Go checkout API: idempotent, tenant-isolated orders, retrying event publisher, distroless image, k8s manifest |
-| [order-automation-bot](https://github.com/tommyshamamba/order-automation-bot) | FastAPI order pipeline with stage history and idempotent creation |
-| [trace-stores-combo](https://github.com/tommyshamamba/trace-stores-combo) | Background-removal API (U²Net via ONNX, optional) with a Next.js UI |
+| [platform-engineering-portfolio](https://github.com/tommyshamamba/platform-engineering-portfolio) | Portfolio collection: an image-processing API and storefront, Postgres workflow apps, Terraform modules, Kubernetes examples, and a research on-chain event-processing engine. CI-tested, with verification notes |
+| [custom-print-storefront](https://github.com/tommyshamamba/custom-print-storefront) | Go checkout API: idempotent, tenant-isolated orders, retrying event publisher, distroless image, k8s manifest |
+| [order-automation-service](https://github.com/tommyshamamba/order-automation-service) | FastAPI order pipeline with stage history and idempotent creation |
+| [image-cutout-studio](https://github.com/tommyshamamba/image-cutout-studio) | Background-removal API (U²Net via ONNX, optional) with a Next.js UI |
 | [terraform-modules](https://github.com/tommyshamamba/terraform-modules) · [kubernetes-demo](https://github.com/tommyshamamba/kubernetes-demo) | Infrastructure examples (sources maintained in the portfolio repo) |
 
 These are personal and portfolio projects run locally. They are not production systems, and each README states what is tested.
