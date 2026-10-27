@@ -1,5 +1,10 @@
 # Tommy Shamamba
 
+## Featured
+
+- **[llm-gateway](https://github.com/tommyshamamba/llm-gateway)** (Python): OpenAI-compatible LLM gateway for DeepSeek, OpenAI, Anthropic and Ollama, with failover and circuit breakers, per-key rate limits, caching, streaming, token/cost accounting, Prometheus metrics and an eval harness.
+- **[rpc-failover-proxy](https://github.com/tommyshamamba/rpc-failover-proxy)** (Go): HTTP/WebSocket failover proxy with latency-ranked health probing, circuit breakers, subscription-preserving WebSocket failover and Prometheus metrics, chaos-tested.
+
 Senior software engineer focused on platform and infrastructure, working remotely from Fort Worth, TX (US Central).
 
 I have 7+ years of experience building and running multi-tenant backend services, with Kubernetes, Terraform on AWS/GCP,
